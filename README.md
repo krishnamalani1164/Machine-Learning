@@ -39,8 +39,8 @@ The Machine Learning A-Z course covers a wide range of machine learning topics f
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/krishnamalani1164/machine-learning
+cd machine-learning
 ```
 
 2. Install Python dependencies:
