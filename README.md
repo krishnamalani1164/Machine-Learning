@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub:** [@krishnamalani1164](https://github.com/krishnamalani1164)
 - **LinkedIn:** [Krishna Malani](https://linkedin.com/in/krishnamalani)
-- **Email:** krishnamalani1164@gmail.com
+- **Email:** krishnamalani77@gmail.com
 
 ---
 
